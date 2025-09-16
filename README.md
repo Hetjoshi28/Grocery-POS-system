@@ -20,6 +20,16 @@ The Grocery app is a user-friendly solution showcasing seamless integration of S
 - Purchase: Supports restocking with automatic stock level adjustments.
 - Search Stock: Allows quick lookup of items by Item Code with detailed item views.
 
+🛒 Product Management – Add, update, and delete grocery items
+
+💳 Billing System – Generate invoices for purchases
+
+📦 Inventory Tracking – Monitor stock levels in real-time
+
+📊 Sales Records – Store and analyze daily transactions
+
+🔐 User-Friendly Interface – Easy to use for shopkeepers
+
 
 
 ## Query Usage/Examples
